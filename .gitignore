@@ -24,3 +24,6 @@ hs_err_pid*
 # IntelliJ
 /.idea/
 *.iml
+
+# Visual Studio Code
+.vscode/
